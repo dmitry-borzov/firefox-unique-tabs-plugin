@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "UniqueTab",
+    "name": "UniqueTabs",
     "version": "1.0",
 
     "description": "Removes not unique tabs",
@@ -15,7 +15,7 @@
 
     "browser_action": {
         "default_icon": "icons/tab-remove-32x32.png",
-        "default_title": "UniqueTab"
+        "default_title": "UniqueTabs"
     },
 
     "background": {
